@@ -1,0 +1,20 @@
+Explore
+
+Evaluate
+
+Design
+http://openhumanitiesdata.metajnl.com/
+http://www.neh.gov/files/grants/data_management_plans_2015.pdf
+
+Transform and Remediate
+http://id.loc.gov/
+http://www.getty.edu/research/tools/vocabularies/index.html
+csvw: http://www.w3.org/2013/csvw/wiki/Main_Page
+json ld: http://json-ld.org/
+
+Document
+README: http://dataabinitio.com/?p=378
+Advanced README example: https://zenodo.org/record/13103?ln=en#.VbpeH0VXXRl
+
+Share
+Usability: http://www.usability.gov/how-to-and-tools/methods/personas.html
